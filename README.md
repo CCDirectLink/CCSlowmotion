@@ -5,8 +5,3 @@
 
 ## Installation
 Drag the "slowmotion" folder into the "mod" folder
-
-## Keybinds
-C - Completely stops time.
-T - Slows down time.
-R - Resumes time.

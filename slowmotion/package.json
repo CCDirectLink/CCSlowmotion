@@ -1,4 +1,8 @@
 {
 	"name": "slowmotion",
+	"version": "0.1.1",
+	"license": "MIT",
+	"homepage": "https://github.com/CCDirectLink/CCSlowmotion",
+	"description": "Turns your C key into a slowmotion controller.",
 	"main": "mod.js"
 }
